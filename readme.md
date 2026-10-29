@@ -1,6 +1,6 @@
 # Ledger
 
-**Stack:** NestJS · TypeORM · PostgreSQL · decimal.js
+**Stack:** NestJS · TypeORM · PostgreSQL 
 
 Libro contable de **doble partida** como servicio. Registra movimientos de
 dinero entre cuentas de forma auditable y consistente. Cada transferencia genera
