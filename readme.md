@@ -1,7 +1,7 @@
 # Ledger
 
 **Stack:** NestJS · TypeORM · PostgreSQL · decimal.js
-Libro contable de doble partida como servicio. Registra movimientos de dinero entre cuentas de forma auditable y consistente.
+
 Libro contable de **doble partida** como servicio. Registra movimientos de
 dinero entre cuentas de forma auditable y consistente. Cada transferencia genera
 dos asientos (débito + crédito) por el mismo monto; si no balancean, se rechaza.
