@@ -1,0 +1,4 @@
+export const LOGGER = Symbol('LOGGER')
+
+export const ACCOUNT_REPOSITORY = Symbol('ACCOUNT_REPOSITORY')
+export const TRANSACTION_REPOSITORY = Symbol('TRANSACTION_REPOSITORY')
